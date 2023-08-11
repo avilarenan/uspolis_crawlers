@@ -5,6 +5,8 @@ import numpy as np
 from datetime import date, timedelta
 import calendar
 
+days_of_week = ["seg", "ter", "qua", "qui", "sex", "sab", "dom",]
+
 def daterange(start_date, end_date):
     for n in range(int((end_date - start_date).days)):
         yield start_date + timedelta(n)
@@ -60,7 +62,7 @@ def get_day_allocs(page, single_date):
     df = df.replace('', np.nan)
     df = df.dropna(axis=0, how="any").reset_index().drop("index", axis=1)
     df["date"] = single_date.strftime("%Y-%m-%d")
-    df["day_of_week"] = calendar.day_name[single_date.weekday()]
+    df["day_of_week"] = days_of_week[single_date.weekday()]
 
     return df
 
@@ -72,7 +74,6 @@ def get_mrbs_data(start_date=date(2023, 8, 6), end_date=date(2023, 8, 12), mrbs_
 
     for single_date in daterange(start_date, end_date):
         date_string = single_date.strftime("%Y-%m-%d")
-        print(date_string)
 
         url = f'https://{mrbs_endpoint}/mrbs/index.php?view=day&view_all=1&page_date={date_string}'
         page = requests.get(url)

@@ -80,8 +80,6 @@ def parse_horizontal_table(table, labels=[], filter=None):
     return out_dict
 
 
-
-
 def parse_vertical_table(table, labels=[], filter=None):
     out_dict = {}
     rows = table.find_all("tr")
