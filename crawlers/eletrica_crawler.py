@@ -1,78 +1,54 @@
 from mrbs_crawler import get_mrbs_data
 from jupiter_crawler import get_jupiter_class_infos
-import pandas as pd
-import re
 from datetime import datetime
+import pandas as pd
 
-def generate_eletrica_classes_file(start_date, end_date, building):
-
-    unmatched = []
+def generate_eletrica_classes_file(start_date: str, end_date: str, BUILDING: str):
 
     turmas = get_mrbs_data(
         start_date=start_date,
         end_date=end_date,
         mrbs_endpoint="main.lcs.poli.usp.br"
-    ).to_dict(orient="records")
+    )
+    turmas.to_csv("mrbs_crawled.csv")
 
-    pattern = r"([A-Z]{3}\d{4})|(\d+)"
+    def get_possible_rooms_by_day_and_start_time(code:str, day: str, start_time: str):
+        possible_rooms = []
+        for item in turmas.to_dict(orient="records"):
+            if item["code"] == code and item["day_of_week"] == day and item["start_time"] == start_time:
+                possible_rooms += [item["room"]]
 
-    filtered_turmas = []
-    for turma in turmas: # cleaning data
-        if re.search(pattern, turma["code"]):
-            code = turma["code"].strip()
-            code = code.replace(" ", "")
-            code = code[:7]
-            if re.fullmatch(pattern, code):
-                turma["code"] = code
-                filtered_turmas += [turma]
-            else:
-                print(f"""No match: {turma["code"]}""")
-        else:
-            print(f"""No match: {turma["code"]}""")
-            
-    turmas = filtered_turmas
+        return possible_rooms
 
     list_of_rows = []
-    for turma in turmas:
-
+    for code in list(turmas["code"].unique()):
         try:
-            turmas_info = get_jupiter_class_infos(turma["code"])
+            jupiter_turmas_info = get_jupiter_class_infos(code)
         except IndexError as e:
-            print(e)
-            print(turma["code"])
-            
-        actual_turma = []
-        for turma_info in turmas_info:
-            try:
-                if turma_info["hora_inicio"].index(turma["start_time"]) == turma_info["dia_semana"].index(turma["day_of_week"]):
-                    actual_turma += [turma_info]
-            except Exception as e:
-                pass
-        
-        if len(actual_turma) == 0:
-            unmatched += [{
-                "aloc": turma,
-                "jupiter": turmas_info
-            }]
+            print(f"Jupiter crawler failed for {code} with the following error: \n{e}")
             continue
-        turma_info = actual_turma[0]
+        for jupiter_turma in jupiter_turmas_info:
+            for day, ts, te in zip(jupiter_turma["dia_semana"], jupiter_turma["hora_inicio"], jupiter_turma["hora_fim"]):
+                rooms = get_possible_rooms_by_day_and_start_time(code, day, ts)
+                rooms_str = ','.join(rooms)
+                
 
+                list_of_rows += [{
+                    "class_code" : jupiter_turma["cod_turma"],
+                    "subject_code" : code,
+                    "subject_name" : jupiter_turma["nome_disciplina"],
+                    "professor" : jupiter_turma["prof"][0] if 0 in jupiter_turma["prof"] else "",
+                    "start_period" : datetime.strptime(jupiter_turma["inicio"], "%d/%m/%Y").strftime("%Y-%m-%d"),
+                    "end_period" : datetime.strptime(jupiter_turma["fim"], "%d/%m/%Y").strftime("%Y-%m-%d"),
+                    "created_by" : f"{BUILDING}_crawler",
+                    "week_day" : day,
+                    "start_time" : ts,
+                    "end_time" : te,
+                    "building" : BUILDING,
+                    "classroom" : rooms_str,
+                    "floor" : 0
+                }]
 
-
-        list_of_rows += [{
-            "class_code" : turma_info["cod_turma"],
-            "subject_code" : turma["code"],
-            "subject_name" : turma_info["nome_disciplina"],
-            "professor" : turma_info["prof"][0] if 0 in turma_info["prof"] else "",
-            "start_period" : datetime.strptime(turma_info["inicio"], "%d/%m/%Y").strftime("%Y-%m-%d"),
-            "end_period" : datetime.strptime(turma_info["fim"], "%d/%m/%Y").strftime("%Y-%m-%d"),
-            "created_by" : f"{building}_crawler",
-            "week_day" : turma["day_of_week"],
-            "start_time" : turma["start_time"],
-            "end_time" : turma["end_time"],
-            "building" : building,
-            "classroom" : turma["room"],
-            "floor" : 0
-        }]
-
-    return pd.DataFrame().from_records(list_of_rows)
+    df = pd.DataFrame().from_records(list_of_rows)
+    df.to_csv("eletrica_ingestion.csv")
+    return df

@@ -1,0 +1,221 @@
+class_code,subject_code,subject_name,professor,start_period,end_period,created_by,week_day,start_time,end_time,building,classroom,floor
+2023250,PCS3722,Organização e Arquitetura de Computadores II,,2023-05-02,2023-08-18,eletrica_crawler,seg,16:00,17:40,eletrica,"B2-01,B2-03",0
+2023250,PCS3722,Organização e Arquitetura de Computadores II,,2023-05-02,2023-08-18,eletrica_crawler,qua,16:00,17:40,eletrica,GD-06,0
+2023250,PTC3449,Sistemas de Comunicação,,2023-08-07,2023-12-21,eletrica_crawler,seg,14:00,15:40,eletrica,B2-01,0
+2023250,PTC3449,Sistemas de Comunicação,,2023-08-07,2023-12-21,eletrica_crawler,qua,14:00,15:40,eletrica,B2-01,0
+2023201,PSI3211,Circuitos Elétricos I,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,09:10,eletrica,B2-05,0
+2023201,PSI3211,Circuitos Elétricos I,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,B2-05,0
+2023201,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023201,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023202,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023202,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023203,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023203,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023204,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023204,PSI3213,Circuitos Elétricos II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,"B2-05,D1-01,D1-02,D1-04",0
+2023201,PSI3321,Eletrônica I,,2023-08-07,2023-12-21,eletrica_crawler,seg,18:00,19:40,eletrica,B2-05,0
+2023201,PSI3321,Eletrônica I,,2023-08-07,2023-12-21,eletrica_crawler,qua,18:00,19:40,eletrica,B2-05,0
+2023250,PCS3422,Organização e Arquitetura de Computadores II,,2023-08-07,2023-12-21,eletrica_crawler,seg,14:00,15:40,eletrica,B2-08,0
+2023250,PCS3422,Organização e Arquitetura de Computadores II,,2023-08-07,2023-12-21,eletrica_crawler,qua,14:00,15:40,eletrica,B2-08,0
+2023250,PCS3438,Inteligência Artificial,,2023-08-07,2023-12-21,eletrica_crawler,seg,16:00,17:40,eletrica,B2-08,0
+2023250,PCS3438,Inteligência Artificial,,2023-08-07,2023-12-21,eletrica_crawler,qua,16:00,17:40,eletrica,B2-08,0
+2023201,PCS3563,Gerência e Qualidade de Software,,2023-08-07,2023-12-21,eletrica_crawler,seg,14:00,17:40,eletrica,,0
+2023201,PSI3442,Projeto de Sistemas Embarcados,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,09:10,eletrica,B2-09,0
+2023201,PSI3442,Projeto de Sistemas Embarcados,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,11:00,eletrica,B2-09,0
+2023201,PSI3472,Concepção e Implementação de Sistemas Eletrônicos Inteligentes,,2023-08-07,2023-12-21,eletrica_crawler,seg,09:20,11:00,eletrica,B2-09,0
+2023201,PSI3472,Concepção e Implementação de Sistemas Eletrônicos Inteligentes,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,09:10,eletrica,"B2-09,GD-06",0
+2023201,PEA3405,Laboratório de Máquinas Elétricas,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,11:00,eletrica,B2-10,0
+2023202,PEA3405,Laboratório de Máquinas Elétricas,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,11:00,eletrica,B2-10,0
+2023201,PEA3417,Sistemas de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,ter,13:10,14:50,eletrica,B2-10,0
+2023201,PEA3417,Sistemas de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,B2-10,0
+2023201,PEA3521,Qualidade e Regulação de Energia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,seg,11:10,12:50,eletrica,B2-10,0
+2023201,PEA3521,Qualidade e Regulação de Energia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,B2-10,0
+2023201,PEA3550,Acionamentos Elétricos Industriais,,2023-08-07,2023-12-21,eletrica_crawler,seg,16:50,18:30,eletrica,B2-10,0
+2023201,PEA3550,Acionamentos Elétricos Industriais,,2023-08-07,2023-12-21,eletrica_crawler,qui,16:50,18:30,eletrica,,0
+2023201,PEA3406,Laboratório de Sistemas  de Potência,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,11:00,eletrica,B2-12,0
+2023202,PEA3406,Laboratório de Sistemas  de Potência,,2023-08-07,2023-12-21,eletrica_crawler,seg,07:30,11:00,eletrica,B2-12,0
+2023201,PEA3414,Máquinas Elétricas II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,B2-12,0
+2023201,PEA3490,Eletrônica de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,09:10,eletrica,,0
+2023202,PEA3490,Eletrônica de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,,0
+2023203,PEA3490,Eletrônica de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,,0
+2023250,PEA3490,Eletrônica de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,B2-12,0
+2023201,PSI3501,Processamento de Voz e Aprendizagem de Máquina,,2023-08-07,2023-12-21,eletrica_crawler,seg,16:50,18:30,eletrica,C1-05,0
+2023201,PSI3501,Processamento de Voz e Aprendizagem de Máquina,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,C1-05,0
+2023241,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,ter,08:00,09:40,eletrica,,0
+2023241,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,qui,10:00,11:40,eletrica,,0
+2023242,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,ter,08:00,09:40,eletrica,,0
+2023242,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,qui,10:00,11:40,eletrica,,0
+2023250,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,C1-30,0
+2023250,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,C1-30,0
+2023254,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,ter,19:20,21:00,eletrica,,0
+2023254,MAC0122,Princípios de Desenvolvimento de Algoritmos,,2023-08-07,2023-12-21,eletrica_crawler,qui,21:10,22:50,eletrica,,0
+2023201,PEA3100,"Energia, Meio Ambiente e Sustentabilidade",,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,C1-30,0
+2023201,PEA3100,"Energia, Meio Ambiente e Sustentabilidade",,2023-08-07,2023-12-21,eletrica_crawler,sex,15:00,16:40,eletrica,C1-30,0
+2023201,PSI3024,Eletrônica,,2023-08-07,2023-12-21,eletrica_crawler,seg,09:20,11:00,eletrica,C1-30,0
+2023201,PSI3024,Eletrônica,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,D1-03,0
+2023250,PCS3746,Sistemas Operacionais,,2023-05-02,2023-08-18,eletrica_crawler,seg,14:00,15:40,eletrica,C1-49,0
+2023250,PCS3746,Sistemas Operacionais,,2023-05-02,2023-08-18,eletrica_crawler,sex,10:20,12:00,eletrica,C1-49,0
+2023201,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PCS3225,Sistemas Digitais II,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,seg,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,seg,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,seg,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PTC3213,Eletromagnetismo,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PTC3361,Introdução ao Processamento Digital de Sinais,,2023-08-07,2023-12-21,eletrica_crawler,seg,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PTC3361,Introdução ao Processamento Digital de Sinais,,2023-08-07,2023-12-21,eletrica_crawler,seg,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PTC3361,Introdução ao Processamento Digital de Sinais,,2023-08-07,2023-12-21,eletrica_crawler,seg,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PSI3502,Realidade Virtual,,2023-08-07,2023-12-21,eletrica_crawler,seg,16:50,20:10,eletrica,D1-02,0
+2023201,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qui,13:10,14:50,eletrica,,0
+2023202,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,D1-03,0
+2023203,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,D1-03,0
+2023204,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,ter,13:10,14:50,eletrica,D1-03,0
+2023205,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,D1-03,0
+2023206,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,D1-03,0
+2023207,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,ter,15:00,16:40,eletrica,,0
+2023208,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,,0
+2023209,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,,0
+2023210,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,09:10,eletrica,D1-03,0
+2023211,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,qui,13:10,14:50,eletrica,,0
+2023212,4323102,Física II,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,D1-03,0
+2023250,PCS3213,Engenharia de Software,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,D1-03,0
+2023250,PCS3213,Engenharia de Software,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,D1-03,0
+2023201,PSI3262,Fundamentos de Circuitos Eletrônicos Digitais e Analógicos,,2023-08-07,2023-12-21,eletrica_crawler,seg,16:50,18:30,eletrica,D1-03,0
+2023201,PSI3262,Fundamentos de Circuitos Eletrônicos Digitais e Analógicos,,2023-08-07,2023-12-21,eletrica_crawler,qua,16:50,18:30,eletrica,D1-03,0
+2023201,PSI3482,"Antenas, Micro-ondas e Óptica Moderna",,2023-08-07,2023-12-21,eletrica_crawler,seg,11:10,12:50,eletrica,GD-04,0
+2023201,PSI3482,"Antenas, Micro-ondas e Óptica Moderna",,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,GD-04,0
+2023201,PSI3483,Ondas Eletromagnéticas em Meios Guiados,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:50,17:30,eletrica,GD-04,0
+2023201,PSI3483,Ondas Eletromagnéticas em Meios Guiados,,2023-08-07,2023-12-21,eletrica_crawler,qui,14:00,15:40,eletrica,GD-04,0
+2023201,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,15:50,eletrica,GD-06,0
+2023202,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,15:50,eletrica,GD-06,0
+2023203,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,seg,08:20,11:00,eletrica,GD-06,0
+2023204,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,seg,08:20,11:00,eletrica,GD-06,0
+2023205,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qui,08:20,11:00,eletrica,GD-06,0
+2023206,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qui,08:20,11:00,eletrica,GD-06,0
+2023207,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,ter,13:10,15:50,eletrica,GD-06,0
+2023208,0323100,Introdução à Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,ter,13:10,15:50,eletrica,GD-06,0
+2023201,PEA3201,Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,11:00,eletrica,A1-22,0
+2023202,PEA3201,Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,11:00,eletrica,A1-22,0
+2023203,PEA3201,Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,16:40,eletrica,A1-22,0
+2023204,PEA3201,Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,16:40,eletrica,A1-22,0
+2023250,PEA3201,Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,seg,13:10,14:50,eletrica,GD-06,0
+2023201,PEA3392,Eletricidade Geral III,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,11:00,eletrica,A1-22,0
+2023202,PEA3392,Eletricidade Geral III,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,11:00,eletrica,A1-22,0
+2023203,PEA3392,Eletricidade Geral III,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,11:00,eletrica,A1-22,0
+2023204,PEA3392,Eletricidade Geral III,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,11:00,eletrica,A1-22,0
+2023250,PEA3392,Eletricidade Geral III,,2023-08-07,2023-12-21,eletrica_crawler,seg,15:00,16:40,eletrica,GD-06,0
+2023250,PTC3451,Processamento Estatístico e Adaptativo,,2023-08-07,2023-12-21,eletrica_crawler,ter,15:50,17:30,eletrica,B2-01,0
+2023250,PTC3451,Processamento Estatístico e Adaptativo,,2023-08-07,2023-12-21,eletrica_crawler,qui,15:50,17:30,eletrica,B2-01,0
+2023250,PTC3452,Teoria da Informação e Codificação,,2023-08-07,2023-12-21,eletrica_crawler,ter,14:00,15:40,eletrica,B2-01,0
+2023250,PTC3452,Teoria da Informação e Codificação,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:50,17:30,eletrica,B2-01,0
+2023250,PTC3470,Introdução ao Projeto de Sistemas de Controle Robustos,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,B2-01,0
+2023250,PTC3470,Introdução ao Projeto de Sistemas de Controle Robustos,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,B2-01,0
+2023250,PTC3565,"Ciência, Tecnologia e Sociedade",,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,B2-01,0
+2023250,PTC3565,"Ciência, Tecnologia e Sociedade",,2023-08-07,2023-12-21,eletrica_crawler,qui,11:10,12:50,eletrica,B2-01,0
+2023250,PTC3101,Engenho e Arte do Controle Automático,,2023-08-07,2023-12-21,eletrica_crawler,ter,16:50,17:40,eletrica,,0
+2023250,PTC3420,Programação Matemática Aplicada a Controle,,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,B2-03,0
+2023250,PTC3420,Programação Matemática Aplicada a Controle,,2023-08-07,2023-12-21,eletrica_crawler,qui,11:10,12:50,eletrica,B2-03,0
+2023250,PTC3570,Engenharia Clínica,,2023-08-07,2023-12-21,eletrica_crawler,ter,14:00,17:40,eletrica,B2-03,0
+2023250,PCS3579,"Inovação, Tecnologia, Estratégia de Negócio e a Sociedade",,2023-08-07,2023-12-21,eletrica_crawler,ter,14:00,17:40,eletrica,B2-05,0
+2023250,PCS3424,Redes de Computadores II,,2023-08-07,2023-12-21,eletrica_crawler,ter,14:00,15:40,eletrica,B2-08,0
+2023250,PCS3424,Redes de Computadores II,,2023-08-07,2023-12-21,eletrica_crawler,qui,14:00,15:40,eletrica,B2-08,0
+2023250,PCS3569,Sistemas de Informação para Engenharia,,2023-08-07,2023-12-21,eletrica_crawler,ter,08:20,12:00,eletrica,B2-08,0
+2023250,PCS3446,Sistemas Operacionais,,2023-08-07,2023-12-21,eletrica_crawler,ter,16:00,17:40,eletrica,,0
+2023250,PCS3446,Sistemas Operacionais,,2023-08-07,2023-12-21,eletrica_crawler,sex,14:00,15:40,eletrica,B2-09,0
+2023201,PEA3524,Laboratório de Automação e Proteção de Sistemas Elétricos,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,11:00,eletrica,B2-10,0
+2023201,PEA3410,Sistemas de Potência I,,2023-08-07,2023-12-21,eletrica_crawler,ter,15:00,16:40,eletrica,B2-12,0
+2023201,PEA3410,Sistemas de Potência I,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,B2-12,0
+2023250,PTC3456,Processamento de Sinais Biomédicos,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,12:50,eletrica,B2-12,0
+2023201,PME3344,Termodinâmica Aplicada,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,"D1-01,D1-02,D1-03,D1-04",0
+2023202,PME3344,Termodinâmica Aplicada,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,"D1-01,D1-02,D1-03,D1-04",0
+2023203,PME3344,Termodinâmica Aplicada,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,"D1-01,D1-02,D1-03,D1-04",0
+2023204,PME3344,Termodinâmica Aplicada,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,"D1-01,D1-02,D1-03,D1-04",0
+2023201,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023201,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023202,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023202,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023203,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,ter,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023203,PTC3314,Ondas e Linhas,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,"D1-01,D1-02",0
+2023201,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,qui,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,qui,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,ter,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PTC3360,Introdução a Redes e Comunicações,,2023-08-07,2023-12-21,eletrica_crawler,qui,11:10,12:50,eletrica,"D1-01,D1-02,D1-04",0
+2023201,PSI3432,Processamento de Áudio e Imagem,,2023-08-07,2023-12-21,eletrica_crawler,ter,09:20,11:00,eletrica,GD-04,0
+2023201,PSI3432,Processamento de Áudio e Imagem,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,09:10,eletrica,GD-04,0
+2023201,PCS3021,Linguagem Computacional,,2023-08-07,2023-12-21,eletrica_crawler,ter,18:50,22:30,eletrica,GD-06,0
+2023201,PSI3542,Sistemas Embarcados para IoT,,2023-08-07,2023-12-21,eletrica_crawler,ter,16:50,18:30,eletrica,GD-06,0
+2023201,PSI3542,Sistemas Embarcados para IoT,,2023-08-07,2023-12-21,eletrica_crawler,qui,16:50,18:30,eletrica,GD-06,0
+2023201,PEA3294,Eletricidade Geral I,,2023-05-02,2023-08-18,eletrica_crawler,qua,13:10,16:40,eletrica,"A1-22,A2-37",0
+2023202,PEA3294,Eletricidade Geral I,,2023-05-02,2023-08-18,eletrica_crawler,qua,13:10,16:40,eletrica,"A1-22,A2-37",0
+2023203,PEA3294,Eletricidade Geral I,,2023-05-02,2023-08-18,eletrica_crawler,sex,13:10,16:40,eletrica,,0
+2023204,PEA3294,Eletricidade Geral I,,2023-05-02,2023-08-18,eletrica_crawler,sex,13:10,16:40,eletrica,,0
+2023250,PEA3294,Eletricidade Geral I,,2023-05-02,2023-08-18,eletrica_crawler,qui,09:20,11:00,eletrica,,0
+2023201,PEA3418,Laboratório de Automação de Sistemas Industriais,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,11:00,eletrica,A2-37,0
+2023202,PEA3418,Laboratório de Automação de Sistemas Industriais,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,11:00,eletrica,A2-37,0
+2023201,PEA3424,Proteção e Automação de Sistemas Elétricos de Potência II,,2023-08-07,2023-12-21,eletrica_crawler,qua,16:50,18:30,eletrica,A2-37,0
+2023250,PTC3414,Controle de Processos Industriais,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,B2-01,0
+2023250,PTC3414,Controle de Processos Industriais,,2023-08-07,2023-12-21,eletrica_crawler,sex,07:30,09:10,eletrica,B2-03,0
+2023250,PTC3421,Instrumentação Industrial,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,B2-01,0
+2023250,PTC3421,Instrumentação Industrial,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,11:00,eletrica,B2-01,0
+2023201,0323150,Detecção e Estimação de Sinais,,2023-08-07,2023-12-21,eletrica_crawler,qua,14:00,17:00,eletrica,B2-03,0
+2023250,PTC3417,Controle Não Linear,,2023-08-07,2023-12-21,eletrica_crawler,qua,11:10,12:50,eletrica,B2-03,0
+2023250,PTC3417,Controle Não Linear,,2023-08-07,2023-12-21,eletrica_crawler,sex,11:10,12:50,eletrica,B2-03,0
+2023201,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,"B2-05,D1-01,D1-02",0
+2023201,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023202,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,"B2-05,D1-01,D1-02",0
+2023202,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023203,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,"B2-05,D1-01,D1-02",0
+2023203,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,"D1-01,D1-02,D1-04",0
+2023250,PCS3578,Sistemas Tolerantes a Falhas,,2023-08-07,2023-12-21,eletrica_crawler,qua,08:20,12:00,eletrica,B2-08,0
+2023250,PCS3724,Redes de Computadores II,,2023-05-02,2023-08-18,eletrica_crawler,qua,14:00,15:40,eletrica,B2-09,0
+2023250,PCS3724,Redes de Computadores II,,2023-05-02,2023-08-18,eletrica_crawler,sex,08:20,10:00,eletrica,C1-49,0
+2023201,PSI3572,Computação Visual,,2023-08-07,2023-12-21,eletrica_crawler,qua,16:50,18:30,eletrica,B2-09,0
+2023201,PSI3572,Computação Visual,,2023-08-07,2023-12-21,eletrica_crawler,qui,13:10,14:50,eletrica,B2-05,0
+2023250,PTC3567,Ciência dos Dados em Automação e Engenharia,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,11:00,eletrica,B2-09,0
+2023201,PEA3416,Proteção e Automação de Sistemas Elétricos de Potência I,,2023-08-07,2023-12-21,eletrica_crawler,qua,15:00,16:40,eletrica,B2-10,0
+2023201,PEA3288,Eletricidade I,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,B2-12,0
+2023201,PRO3826,Fundamentos de Economia,,2023-05-02,2023-08-18,eletrica_crawler,qua,10:20,12:00,eletrica,B2-12,0
+2023250,PTC3020,Sistemas de Controle,,2023-05-02,2023-08-18,eletrica_crawler,qua,08:20,10:00,eletrica,B2-12,0
+2023250,PTC3020,Sistemas de Controle,,2023-05-02,2023-08-18,eletrica_crawler,qui,08:20,10:00,eletrica,,0
+2023204,PCS3115,Sistemas Digitais I,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,C1-30,0
+2023204,PCS3115,Sistemas Digitais I,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,GD-06,0
+2023205,PCS3115,Sistemas Digitais I,,2023-08-07,2023-12-21,eletrica_crawler,qua,13:10,14:50,eletrica,C1-30,0
+2023205,PCS3115,Sistemas Digitais I,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,14:50,eletrica,GD-06,0
+2023201,PEA3390,Eletricidade Aplicada I,,2023-08-07,2023-12-21,eletrica_crawler,qua,07:30,09:10,eletrica,C1-30,0
+2023201,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,qua,11:10,12:50,eletrica,,0
+2023201,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,11:00,eletrica,"C1-30,D1-02,D1-04",0
+2023202,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,qua,11:10,12:50,eletrica,,0
+2023202,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,11:00,eletrica,"C1-30,D1-02,D1-04",0
+2023203,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,qua,11:10,12:50,eletrica,,0
+2023203,PTC3313,Sistemas de Controle,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,11:00,eletrica,"C1-30,D1-02,D1-04",0
+2023350,PCS3899,"Blockchain, Criptomoedas & Tecnologias Decentralizadas",,2023-08-31,2023-12-15,eletrica_crawler,qua,14:00,17:40,eletrica,C1-49,0
+2023201,PSI3322,Eletrônica II,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,"D1-03,D1-04",0
+2023201,PSI3322,Eletrônica II,,2023-08-07,2023-12-21,eletrica_crawler,sex,11:10,12:50,eletrica,"D1-03,D1-04",0
+2023202,PSI3322,Eletrônica II,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,11:00,eletrica,"D1-03,D1-04",0
+2023202,PSI3322,Eletrônica II,,2023-08-07,2023-12-21,eletrica_crawler,sex,11:10,12:50,eletrica,"D1-03,D1-04",0
+2023201,PSI3463,Laboratório de Fabricação de Circuitos Integrados,,2023-08-07,2023-12-21,eletrica_crawler,qua,14:00,17:40,eletrica,GD-04,0
+2023201,PSI3422,Laboratório de Sistemas Eletrônicos,,2023-08-07,2023-12-21,eletrica_crawler,qua,09:20,12:50,eletrica,GD-06,0
+2023201,PEA3389,Laboratório de Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,11:00,eletrica,A1-22,0
+2023202,PEA3389,Laboratório de Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,11:00,eletrica,A1-22,0
+2023203,PEA3389,Laboratório de Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,qui,14:00,17:30,eletrica,,0
+2023204,PEA3389,Laboratório de Eletricidade Geral II,,2023-08-07,2023-12-21,eletrica_crawler,qui,14:00,17:30,eletrica,,0
+2023250,PCS3568,Sistemas de Computação de Alto Desempenho,,2023-08-07,2023-12-21,eletrica_crawler,qui,08:20,12:00,eletrica,B2-08,0
+2023201,PEA3393,Laboratório de Eletricidade Geral I,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,11:00,eletrica,B2-10,0
+2023202,PEA3393,Laboratório de Eletricidade Geral I,,2023-08-07,2023-12-21,eletrica_crawler,qui,07:30,11:00,eletrica,B2-10,0
+2023203,PEA3393,Laboratório de Eletricidade Geral I,,2023-08-07,2023-12-21,eletrica_crawler,sex,13:10,16:40,eletrica,B2-10,0
+2023201,PEA3440,Uso da Energia Elétrica,,2023-08-07,2023-12-21,eletrica_crawler,qui,15:00,16:40,eletrica,B2-10,0
+2023201,PCS3589,Aspectos Legais em Tecnologia da Informação,,2023-08-07,2023-12-21,eletrica_crawler,qui,14:00,17:40,eletrica,B2-12,0
+2023201,PRO3816,Fundamentos de Administração,,2023-05-02,2023-08-18,eletrica_crawler,qui,10:20,12:00,eletrica,B2-12,0
+2023201,PSI3465,Inovação em Engenharia,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,12:50,eletrica,,0
+2023201,PEA3290,Eletrotécnica Aplicada I,,2023-08-07,2023-12-21,eletrica_crawler,qui,09:20,11:00,eletrica,C1-30,0
+2023250,PTC3572,Dinâmica e Controle em Tempo Discreto,,2023-08-07,2023-12-21,eletrica_crawler,sex,14:00,17:40,eletrica,B2-03,0
+2023250,PTC3492,Princípios da Formação e Processamento de Imagens Médicas,,2023-08-07,2023-12-21,eletrica_crawler,sex,09:20,12:50,eletrica,B2-05,0
+2023350,PCS3838,Inteligência Artificial,,2023-08-31,2023-12-15,eletrica_crawler,sex,08:20,12:00,eletrica,B2-08,0
+2023290,PEA3346,Eletrotécnica Geral,,2023-08-07,2023-12-21,eletrica_crawler,sex,08:20,11:00,eletrica,B2-12,0
